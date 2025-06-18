@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test3.txt file created added lines from vs code
+=======
+test3.txt file created
+this line is edited from github
+>>>>>>> 8a07e8a1d581ff69899cb1c07b13d4d9e396a87a
